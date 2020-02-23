@@ -12,10 +12,11 @@ namespace ConsoleApp1
             // Update : VS - feature1
             // Update: GIT - Master
         }
-        public int Add(int a, int b)
+        public int Add()
         {
-            var c=10;
-            return a + b+c;
+            var a=10;
+            var b=20;
+            return a +b
         }
     }
 }
