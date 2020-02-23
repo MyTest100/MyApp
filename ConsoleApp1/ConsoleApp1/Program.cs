@@ -12,5 +12,9 @@ namespace ConsoleApp1
             // Update : VS - feature1
             // Update: GIT - Master
         }
+        public int Add(int a, int b)
+        {
+            return a + b;
+        }
     }
 }
